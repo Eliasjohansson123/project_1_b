@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    display: flex;
+    width:100vw;
+    height:100vh;
+    background-color:#555;
+}
+#content-background-image{
+    background-image: url("../images/355.jpg");
+    alt: "en bild på Elias Johansson";
+}
